@@ -1,4 +1,4 @@
-package test;
+package test.java;
 
 import java.util.Collections;
 import java.util.List;
